@@ -509,6 +509,10 @@ dependencies = [
 ]
 
 [[package]]
+name = "fuse-interface"
+version = "0.1.0"
+
+[[package]]
 name = "futures-core"
 version = "0.3.30"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -614,6 +618,7 @@ dependencies = [
  "fdt",
  "float-cmp",
  "free-list",
+ "fuse-interface",
  "hashbrown",
  "hermit-dtb",
  "hermit-entry",
